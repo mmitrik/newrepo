@@ -1,4 +1,4 @@
-master
+master conflict1
 foo
 bar
 dev
