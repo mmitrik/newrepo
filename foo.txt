@@ -1,3 +1,3 @@
-master
+master conflict2
 foo
 bar
