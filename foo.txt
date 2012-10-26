@@ -1,4 +1,4 @@
 master conflict4 conflict5
-foo conflict1
+foo conflict1 conflict2
 bar
 dev
