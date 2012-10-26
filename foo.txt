@@ -1,3 +1,4 @@
-master conflict2
+master conflict2 conflict1
 foo
 bar
+dev
